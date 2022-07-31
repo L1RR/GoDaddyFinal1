@@ -1,0 +1,393 @@
+.container{
+    width:100%;
+    height:500px;
+    background: white;
+}
+
+.header{
+    width:100%;
+    height:70px;   
+    background-color: white; 
+}
+
+.header-left{
+    width:40%;
+    height:80px;
+    float:left;
+}
+.image-header{
+    width:180px;
+    margin-left:30px;
+    margin-top: 8px;
+    cursor: pointer;
+}
+.header-right{
+    width:40%;
+    float:right;
+    display:flex;
+    justify-content: space-between;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    
+}
+.flexbox-item-1{
+    height:70px;
+    /* background-color: aliceblue; */
+    width:40%;
+    align-items: center;
+    cursor: pointer;
+}
+.flexbox-item-2{
+    height:70px;
+    /* background-color: antiquewhite; */
+    width:20%;
+    padding-left: 40px;
+}
+.flexbox-item-3{
+    height:70px;
+    /* background-color: aqua; */
+    width:20%;
+    padding-left: 40px;
+}
+.flexbox-item-4{
+    height:70px;
+    /* background-color: blue; */
+    width:20%;
+    padding-left: 20px;
+}
+.flexbox-item-5{
+    height:70px;
+    /* background-color: blueviolet; */
+    width:20%;
+    padding-left: 35px;
+}
+/* ------------------------------------------------------------------------------*/
+body{
+    margin:0px;
+}
+.main2{
+    width:100%;
+    height:378px;
+    background-color: #fde9db;
+    position: relative;
+}
+.submit-btn{
+    background-color: black;
+    font-weight: bold;
+    color:white;
+    height:55px;
+    width:110px;
+    border-style: none;
+    cursor: pointer;
+}
+.m1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 85px;
+    font-family: gd-sage, Times, "Times New Roman", serif;
+}
+.m2{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+}
+.m3{
+    width:700px;
+    height:50px;
+    margin-left: 200px;
+}
+.m4{
+    text-align: center;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+    color:grey;
+}
+/* -------------------------------------------------------------------------------- */
+
+.main3{
+    width:100%;
+    height:852px;
+    background-color:white;
+}
+.left-section{
+    width:100%;
+}
+.image1{
+    width:541px;
+    height:325px;
+    float:left;
+    margin-left:50px;
+}
+.image2{
+    width:541px;
+    height:325px;
+    float:left;
+    margin-left:80px;
+}
+.first{
+    font-weight: bolder;
+    font-size: 60px;
+    text-align: center;
+    font-family: gd-sage, Times, "Times New Roman", serif;
+}
+.second{
+    font-weight: 400;
+    text-align: center;
+    font-family: gd-sage, Times, "Times New Roman", serif;
+    color:grey;
+
+}
+.left-section1{
+    width:50%;
+    float:left;
+    padding-left: 40px;
+    padding-top:30px;
+}
+.right-section2{
+    width:40%;
+    float:right;
+    padding-top:30px;
+    padding-right:69px;
+    
+   
+    
+
+}
+/* ---------------------------------------------------------------------------- */
+
+.image4{
+    width:100%;
+    height:429px;
+    background-image: ;
+}
+/* ----------------------------------------------------------------------------------- */
+
+.disclaimer{
+    width:100%;
+    height:120px;
+    background-color: white;
+    
+
+}
+.disclaimer1{
+    padding-top: 75px;
+    padding-left:40px;
+
+}
+.need{
+    width:100%;
+    height:60px;
+    background-color: #f5f7f8;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+}
+.need1{
+    padding-top:20px;
+    text-align: center;
+}
+.imagecontent1{
+    margin-top: 30px;;
+    margin-left: 30px;
+    position:absolute;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+}
+
+.imagecontent2{
+    position:absolute;
+    margin-left:700px;
+    margin-top:50px;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+}
+.imagecontent3{
+    position:absolute;
+    margin-left:700px;
+    margin-top:230px;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+}
+.imagecontent4{
+    position:absolute;
+    margin-left:700px;
+    margin-top:315px;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+}
+.offer{
+    width:100%;
+    height:70px;
+    background-color: #2b2b2b;
+}
+.offerimage{
+
+}
+.welove{
+    width:100%;
+    height:180px;
+    background-color: #111111;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+    
+}
+.welove1{
+    color:white;
+    position:absolute;
+    font-weight: bold;
+    font-size: x-large;
+    padding-left:50px;
+}
+.weloveimage{
+    padding-left:40px;
+    padding-top:75px;
+    
+}
+.footer1{
+    width:100%;
+    height:450px;
+    background-color: #111111;
+    padding-top:30px;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+    
+    
+}
+.list1{
+    float:left;
+    width:14%;
+    height:350px;
+    background-color: #111111;
+    margin-left:30px;
+    color:white;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    /* padding:40px; */
+}
+.list2{
+    float:left;
+    width:14%;
+    height:350px;
+    background-color: #111111;
+    margin-left:30px;
+    color:white;
+    cursor: pointer;
+}
+.list3{
+    float:left;
+    width:14%;
+    height:350px;
+    background-color: #111111;
+    margin-left:30px;
+    color:white;
+    cursor: pointer;
+}
+.list4{
+    float:left;
+    width:14%;
+    height:350px;
+    background-color: #111111;
+    margin-left:30px;
+    color:white;
+    cursor: pointer;
+}
+.list5{
+    float:left;
+    width:14%;
+    height:350px;
+    background-color: #111111;
+    margin-left:30px;
+    color:white;
+    cursor: pointer;
+}
+.list6{
+    float:left;
+    width:14%;
+    height:350px;
+    background-color: #111111;
+    margin-left:30px;
+    color:white;
+    cursor: pointer;
+}
+/* ------------------------------------------------------------------------------- */
+
+.goindia{
+    width:100%;
+    height:70px;
+    background-color: #111111;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+
+}
+
+.leftgoindia{
+    width:50%;
+    height:100%;
+    float:left;
+
+}
+.goindiaimage{
+    padding-left: 30px;
+    padding-top:20px;
+    float :left;
+}
+.leftindiacontent{
+    float:left;
+    padding-left: 70px;
+    padding-top:20px;
+    color:white;
+    font-weight: bolder;
+}
+.rightgoindia{
+    width:50%;
+    height:100%;
+    float:left;
+
+}
+.size{
+    width:40px;
+    height:40px;
+    float:right;
+    padding-top:25px;
+    padding-right:30px;
+}
+.finalfooter{
+    width:100%;
+    height:150px;
+    background-color: red;
+}
+.finalleft{
+    width:70%;
+    background-color: #111111;
+    height:100%;
+    float:left;
+}
+.finalright{
+    width:30%;
+    background-color:#111111;
+    height:100%;
+    float:left;
+}
+.finalcontent{
+    color:white;
+    font-family: gdsherpa, Helvetica, Arial, sans-serif;
+    font-weight: 100;
+     
+}
+
+.flexbox-item2-1{
+    float:left;
+    font-size: 15px;
+    padding-left:10px;  
+    color:white;
+}
+.flexbox-item2-2{
+    float:left;
+    font-size: 15px;
+    padding-left:10px;  
+    color:white;
+}
+.flexbox-item2-3{
+    float:left;    
+    font-size: 15px;
+    padding-left:10px; 
+    color:white; 
+}
+.flexbox-item2-4{
+    float:left;
+    font-size: 15px;
+    padding-left:10px; 
+    color:white;
+}
